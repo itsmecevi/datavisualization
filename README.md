@@ -77,7 +77,7 @@ ___________
    
 ## 7-Understanding Tableau Concepts
 
-Data: [Global-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/master/Sample%20-%20Superstore.xls)
+Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blob/master/Global%20Superstore.xls)
 
 * Show Me Tool Bar
 * Dimensions and measures
