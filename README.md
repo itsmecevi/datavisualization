@@ -1,4 +1,4 @@
-# Preparation
+# Warming Up
 
 <span>&#129311;</span> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
@@ -6,11 +6,9 @@
 
 <span>&#128201;</span> Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
 
-<span>&#xf108;</span> Tableau free 14-day trial
+<span>&#xf108;</span> [Install Tableau free 14-day trial](https://www.tableau.com/en-gb/products/trial)
 
-<span>&#xf109;</span> Install Tableau free 14-day trial
-
-<i class="fa fa-laptop" style="font-size:36px"></i> Install Tableau free 14-day trial
+<span>&#xf108;</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
 
 
 
