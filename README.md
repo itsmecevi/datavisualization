@@ -8,6 +8,8 @@
 
 <span>&#xf108;</span> Tableau free 14-day trial
 
+<span>&#xf109;</span> Install Tableau free 14-day trial
+
 
 
 
