@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Preparation
+
+<span>&#129311;</span> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
+
+<span>&#128202;</span> About Tableau Software -> [Click Here](https://www.tableau.com/about)
+
+<span>&#128201;</span> Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
+
+
+
+##  The Power of Data Visualization
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/bi-visual-overview/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
