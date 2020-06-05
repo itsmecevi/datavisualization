@@ -17,9 +17,10 @@
 # The Power of Data Visualization
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
-* [Gapminder](https://www.gapminder.org/)
-* Goals : 
 
+* [Gapminder](https://www.gapminder.org/)
+
+* Goals : 
      * Data Exploration — find the unknown (trends, outliers, patterns)
      * Data Analysis — check hypotheses
      * Presentation — communicate and disseminate (share function->infographic)
