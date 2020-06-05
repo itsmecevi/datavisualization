@@ -11,7 +11,7 @@
 <span>&#xf108;</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
 
 
-## 1-The Power of Data Visualization
+## 1-The Power of Data Visualization [9-9.30]
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
@@ -25,26 +25,26 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 * [Visual References](https://github.com/itsmecevi/visualreferences/blob/master/VisualReferences-SQLBI.pdf)
 * Rules of Thumb : **Edward Tufte Rules**
 
-## 2-Business Intelligence 101
+## 2-Business Intelligence 101 [9.30-10]
  
 * [Click Here: Hands-On Tableau BI](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
 * [Click Here: 2019 Business Intelligence Trends](https://www.tableau.com/reports/business-intelligence-trends)
 * [Survey](https://forms.gle/zQpJANaynKiVL8bz8)
 
 
-## 3-Decision Support System (DSS):= "BI"
+## 3-Decision Support System (DSS):= "BI" [10-10.15]
 
 * [Click Here: DSS](https://docs.google.com/presentation/d/1_Gp2_J6BrfddSLpv5bSxnpqudwgWZA3UklM3IGG6pMI/edit?usp=sharing)
 * Demo : [World_Bank_CO2-> CO2 Data Cleaned Sheet](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
     * Excel vs Tableau
     * Machine Learning Clustering in Tableau
 
-## 4-Tableau & Big Data
+## 4-Tableau & Big Data [10.15-10.30]
 
 * [Click Here: SWOT Analysis](https://docs.google.com/presentation/d/1_HzgnLBup74XiDjfenyEayHecj6sT7uNll8BspKSd4Q/edit?usp=sharing)
 * Tableau GUI Demo
 
-## 5-Connecting to data
+## 5-Connecting to data [10.30-10.45]
 
 * Live connection :
      * When you have a fast database
@@ -60,7 +60,7 @@ ___________
 * PDF : [amazn_stock.pdf](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
 
 
-## 6-Data Preparation
+## 6-Data Preparation [10.45-11]
 
 * Data connections :
    * Union (vertical connection) : [amazn_stock.pdf](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
@@ -75,7 +75,7 @@ ___________
    * Change data type for a data field (number, date, string, boolean, etc.)
    
    
-## 7-Understanding Tableau Concepts
+## 7-Understanding Tableau Concepts [11-12.30]
 
 Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blob/master/Global%20Superstore.xls)
 
@@ -93,13 +93,19 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
 * Story
 
 
-## 8-Use Case
+## 8-Use Case [12.30-13.00]
 
 [Medigo-BI](https://itsmecevi.github.io/medigo-bi/)
 
 ## 9-Executive Summary:
 
 [Tableau from A-Z with data journalism](https://trello.com/c/7MSdbWmD/505-inovasi-dan-teknologi-baru-si-tableau)
+
+## 09.06.2020:
+* FGD Medigo-BI (9-10)
+* Calculation (10-11)
+* Dashboard (11-12)
+* Story (12-13)
 
 
 
