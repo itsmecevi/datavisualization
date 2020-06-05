@@ -6,7 +6,7 @@
 
 <span>&#128201;</span> Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
 
-<span>&#xf019;</span> Tableau free 14-day trial
+<span>&#xf108;</span> Tableau free 14-day trial
 
 
 
