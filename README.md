@@ -10,6 +10,8 @@
 
 <span>&#xf109;</span> Install Tableau free 14-day trial
 
+<i class="fa fa-laptop" style="font-size:36px"></i> Install Tableau free 14-day trial
+
 
 
 
