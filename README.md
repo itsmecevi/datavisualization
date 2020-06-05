@@ -11,9 +11,6 @@
 <span>&#xf108;</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
 
 
-
-
-
 ## 1-The Power of Data Visualization
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
@@ -55,6 +52,7 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
      * When your database is too slow for interactive analytics
      * When you need to take load off a transactional database (size of the data)
      * When you need to be offline (without internet connections)
+     
 ___________
 * Excel : [World_Bank_CO2.xlsx](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * CSV : [FL_insurance_sample.csv](https://github.com/itsmecevi/FL_insurance_sample/blob/master/FL_insurance_sample.csv)
@@ -74,6 +72,24 @@ ___________
    * Assign an alias to a data value
    * Assign a geographic role to a data field
    * Change data type for a data field (number, date, string, boolean, etc.)
+   
+   
+## 7-Understanding Tableau Concepts
+
+Data: [Sample-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/master/Sample%20-%20Superstore.xls)
+
+* Show Me Tool Bar
+* Dimensions and measures
+* Column & Rows Shelf
+* Marks Cards
+* Discrete and Continuous Fields :
+  * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are      separate the graphs.
+  * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t        separate the graphs.
+  
+* “**Aggregation / Calculation**”
+* Sheet
+* Dashboard (Filter, Actions Highlight, & Formatting)
+* Story
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
