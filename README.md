@@ -98,8 +98,7 @@ Data: [Sample-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/ma
 
 ## 9-Executive Summary:
 
-### a
-### b
-### c
+[Tableau from A-Z with data journalism](https://trello.com/c/7MSdbWmD/505-inovasi-dan-teknologi-baru-si-tableau)
+
 
 
