@@ -29,6 +29,17 @@
 * [Click Here: 2019 Business Intelligence Trends](https://www.tableau.com/reports/business-intelligence-trends)
 
 
+# 3-Decision Support System (DSS):= "BI"
+
+* [Click Here: DSS](https://docs.google.com/presentation/d/1_Gp2_J6BrfddSLpv5bSxnpqudwgWZA3UklM3IGG6pMI/edit?usp=sharing)
+* Demo : [World_Bank_CO2-> CO2 Data Cleaned Sheet](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
+    * Excel vs Tableau
+    * Machine Learning Clustering in Tableau
+
+# 4-Tableau Desktop 101
+
+* [Click Here: SWOT Analysis](https://docs.google.com/presentation/d/1_HzgnLBup74XiDjfenyEayHecj6sT7uNll8BspKSd4Q/edit?usp=sharing)
+* Tableau GUI Demo
 
 
 
