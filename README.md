@@ -14,7 +14,7 @@
 
 
 
-# The Power of Data Visualization
+# 1-The Power of Data Visualization
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 
@@ -25,7 +25,14 @@
      * Data Analysis — check hypotheses
      * Presentation — communicate and disseminate (share function->infographic)
 
-### Markdown
+# 2-Business Intelligence 101
+ 
+* [Click Here: Hands-On Tableau BI](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
+* [Click Here: 2019 Business Intelligence Trends](https://www.tableau.com/reports/business-intelligence-trends)
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
