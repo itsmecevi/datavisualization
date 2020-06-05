@@ -51,11 +51,30 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 * Live connection :
      * When you have a fast database
      * When you need up-to-the minute data (real-time)
-     
 * Extract connection (in memory) :
      * When your database is too slow for interactive analytics
      * When you need to take load off a transactional database (size of the data)
      * When you need to be offline (without internet connections)
+___________
+* Excel : [World_Bank_CO2.xlsx](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
+* CSV : [FL_insurance_sample.csv](https://github.com/itsmecevi/FL_insurance_sample/blob/master/FL_insurance_sample.csv)
+* PDF : [amazn_stock.pdf](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
+
+
+## 6-Data Preparation
+
+* Data connections :
+   * Union (vertical connection) : [amazn_stock.pdf](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
+   * Joins / Blend / Inner Join (horizontal connection) : 
+   * Left Join, Right Join, Full Outer Join
+* Data Interpreter & Data Pivoting : [CO2 API](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls)
+* Splitting : CO2 API Version-Indicator Name
+* Manage data properties :
+   * Rename a data field:
+   * Assign an alias to a data value
+   * Assign a geographic role to a data field
+   * Change data type for a data field (number, date, string, boolean, etc.)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
