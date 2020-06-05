@@ -22,6 +22,13 @@
      * Data Exploration — find the unknown (trends, outliers, patterns)
      * Data Analysis — check hypotheses
      * Presentation — communicate and disseminate (share function->infographic)
+* The Five-Step Model :
+![5stepdesign](https://user-images.githubusercontent.com/27078712/72888440-266b7800-3d40-11ea-8668-db66477a76fb.png)
+
+Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
+ 
+* [Visual References](https://github.com/itsmecevi/visualreferences/blob/master/VisualReferences-SQLBI.pdf)
+* Rules of Thumb : **Edward Tufte Rules**
 
 ## 2-Business Intelligence 101
  
