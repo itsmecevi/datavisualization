@@ -14,7 +14,7 @@
 
 
 
-##  The Power of Data Visualization
+# The Power of Data Visualization
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
