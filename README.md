@@ -1,4 +1,7 @@
-# Warming Up
+# BI & Visual Analytics
+
+
+## Warming Up
 
 <span>&#129311;</span> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
@@ -14,7 +17,7 @@
 
 
 
-#  The Power of Data Visualization
+##  The Power of Data Visualization
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
