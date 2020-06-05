@@ -94,6 +94,12 @@ Data: [Sample-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/ma
 
 ## 8-Use Case
 
-https://itsmecevi.github.io/medigo-bi/
+[Medigo-BI](https://itsmecevi.github.io/medigo-bi/)
 
 ## 9-Executive Summary:
+
+### a
+### b
+### c
+
+
