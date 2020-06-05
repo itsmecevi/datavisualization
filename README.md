@@ -24,9 +24,7 @@
      * Presentation — communicate and disseminate (share function->infographic)
 * The Five-Step Model :
 ![5stepdesign](https://user-images.githubusercontent.com/27078712/72888440-266b7800-3d40-11ea-8668-db66477a76fb.png)
-
 Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
- 
 * [Visual References](https://github.com/itsmecevi/visualreferences/blob/master/VisualReferences-SQLBI.pdf)
 * Rules of Thumb : **Edward Tufte Rules**
 
@@ -43,7 +41,7 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
     * Excel vs Tableau
     * Machine Learning Clustering in Tableau
 
-## 4-Tableau Desktop 101
+## 4-Tableau & Big Data
 
 * [Click Here: SWOT Analysis](https://docs.google.com/presentation/d/1_HzgnLBup74XiDjfenyEayHecj6sT7uNll8BspKSd4Q/edit?usp=sharing)
 * Tableau GUI Demo
