@@ -46,7 +46,16 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 * [Click Here: SWOT Analysis](https://docs.google.com/presentation/d/1_HzgnLBup74XiDjfenyEayHecj6sT7uNll8BspKSd4Q/edit?usp=sharing)
 * Tableau GUI Demo
 
+## 5-Connecting to data
 
+* Live connection :
+     * When you have a fast database
+     * When you need up-to-the minute data (real-time)
+     
+* Extract connection (in memory) :
+     * When your database is too slow for interactive analytics
+     * When you need to take load off a transactional database (size of the data)
+     * When you need to be offline (without internet connections)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
