@@ -14,11 +14,15 @@
 
 
 
-##  The Power of Data Visualization
+#  The Power of Data Visualization
 
-You can use the [editor on GitHub](https://github.com/itsmecevi/bi-visual-overview/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+* [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
+* [Gapminder](https://www.gapminder.org/)
+* Goals : 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+     * Data Exploration — find the unknown (trends, outliers, patterns)
+     * Data Analysis — check hypotheses
+     * Presentation — communicate and disseminate (share function->infographic)
 
 ### Markdown
 
