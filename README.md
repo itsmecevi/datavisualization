@@ -29,6 +29,7 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
  
 * [Click Here: Hands-On Tableau BI](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
 * [Click Here: 2019 Business Intelligence Trends](https://www.tableau.com/reports/business-intelligence-trends)
+* [Survey](https://forms.gle/zQpJANaynKiVL8bz8)
 
 
 ## 3-Decision Support System (DSS):= "BI"
@@ -76,7 +77,7 @@ ___________
    
 ## 7-Understanding Tableau Concepts
 
-Data: [Sample-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/master/Sample%20-%20Superstore.xls)
+Data: [Global-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/master/Sample%20-%20Superstore.xls)
 
 * Show Me Tool Bar
 * Dimensions and measures
