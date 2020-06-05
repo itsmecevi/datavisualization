@@ -1,7 +1,4 @@
-# BI & Visual Analytics
 
-
-## Warming Up
 
 <span>&#129311;</span> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
