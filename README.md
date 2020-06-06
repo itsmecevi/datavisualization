@@ -36,8 +36,8 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 
 * [Click Here: DSS](https://docs.google.com/presentation/d/1_Gp2_J6BrfddSLpv5bSxnpqudwgWZA3UklM3IGG6pMI/edit?usp=sharing)
 * Demo : [World_Bank_CO2-> CO2 Data Cleaned Sheet](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
-    * Excel vs Tableau
-    * Machine Learning Clustering in Tableau
+    * Excel vs Tableau: Country Name vs Sum of CO2
+    * Machine Learning Clustering in Tableau: Year, Sum CO2, Region (Prediction & Clustering)
 
 ## 4-Tableau & Big Data [10.15-10.30]
 
