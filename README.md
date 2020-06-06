@@ -86,6 +86,15 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
 * Discrete and Continuous Fields :
   * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are      separate the graphs.
   * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t        separate the graphs.
+* Main chart:
+  * Word maps
+  * Line chart
+  * Bar chart
+  * Bubble chart
+  * Tree maps
+  * Funnel chart
+  * Waterfall chart
+  * Maps
   
 * “**Aggregation / Calculation**”
 * Sheet
