@@ -95,10 +95,10 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
   * 2-Line chart: profit by category, profit by market, profit trendline, profit forecasting
   * Bar chart: profit, profit by ship mode
   * Bubble chart: profit by city
-  * Tree maps
-  * Funnel chart
-  * Waterfall chart
-  * Maps
+  * Tree maps: profit by category and subcategory, profit by product
+  * Funnel chart: 
+  * Waterfall chart: 
+  * Maps: 
   
 * Aggregation / Calculation
 * Sheet
