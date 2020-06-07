@@ -91,8 +91,8 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
   * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are      separate the graphs.
   * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t        separate the graphs.
 * Hands-on chart:
-  * Word maps
-  * Line chart
+  * 1-Word maps: country, profit
+  * 2-Line chart: profit by category, profit by market, profit trendline, profit forecasting
   * Bar chart
   * Bubble chart
   * Tree maps
