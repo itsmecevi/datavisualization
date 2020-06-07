@@ -58,6 +58,7 @@ ___________
 * Excel : [World_Bank_CO2.xlsx](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * CSV : [FL_insurance_sample.csv](https://github.com/itsmecevi/FL_insurance_sample/blob/master/FL_insurance_sample.csv)
 * PDF : [amazn_stock.pdf](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
+* Google Big Query: preparing your gmail account!
 
 
 ## 6-Data Preparation [10.45-11]
@@ -79,6 +80,9 @@ ___________
 
 Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blob/master/Global%20Superstore.xls)
 
+* Simple Tableau Workflow 
+  * Pre Tableau Workflow : outcome->design->data searching->Tableau
+  * Tableau Workflow: data connection->data preparation->sheet->[dashboard]->story
 * Show Me Tool Bar
 * Dimensions and measures
 * Column & Rows Shelf
