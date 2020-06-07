@@ -81,8 +81,8 @@ ___________
 Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blob/master/Global%20Superstore.xls)
 
 * Simple Tableau Workflow 
-  * Pre Tableau Workflow (tidak ada data): outcome->design->data searching->Tableau
-  * Tableau Workflow (ada data): data connection->data preparation->sheet->[dashboard]->story
+  * Workflow type 1 (we don't have data): outcome->design->data searching->Tableau
+  * Workflow type 2 (we have data): data connection->data preparation->sheet->[dashboard]->story
 * Show Me Tool Bar
 * Dimensions and measures
 * Column & Rows Shelf
