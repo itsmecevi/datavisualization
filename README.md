@@ -99,7 +99,7 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
   * 6-Funnel chart: profit by segment
   * 7-Waterfall chart: profit by sub-category
   * 8-Pie chart: shipping cost by region
-  * Maps: 
+  * 9-Maps: profit by state
   
 * Aggregation / Calculation
 * Sheet
