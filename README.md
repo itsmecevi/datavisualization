@@ -93,11 +93,11 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
 * Hands-on chart:
   * 1-Word maps: country, profit
   * 2-Line chart: profit by category, profit by market, profit trendline, profit forecasting
-  * Bar chart: profit, profit by ship mode
-  * Bubble chart: profit by city
-  * Tree maps: profit by region and subcategory, profit clustering, profit by product
-  * Funnel chart: profit by segment
-  * Waterfall chart: 
+  * 3-Bar chart: profit, profit by ship mode
+  * 4-Bubble chart: profit by city
+  * 5-Tree maps: profit by region and subcategory, profit clustering, profit by product
+  * 6-Funnel chart: profit by segment
+  * 7-Waterfall chart: profit by sub-category
   * Maps: 
   
 * Aggregation / Calculation
