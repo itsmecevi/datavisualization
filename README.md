@@ -107,7 +107,7 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
   * To aggregate data
   * To filter results
   * To calculate ratios
-  * Demo:
+  * Hands-on calculation: [Calculation]()
   
         1. totals
         2. percentages
