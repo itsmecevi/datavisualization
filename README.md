@@ -101,7 +101,9 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
   * 8-Pie chart: shipping cost by region
   * 9-Maps: profit by state
   
-* Aggregation / Calculation
+* Aggregation / Calculation:
+  * totals
+  * percentages
 * Sheet
 * Dashboard (Filter, Actions Highlight, & Formatting)
 * Story
