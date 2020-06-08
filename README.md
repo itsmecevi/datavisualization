@@ -108,10 +108,15 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
   * To filter results
   * To calculate ratios
   * Demo:
-        * totals
-        * percentages
-        * profit ratio
-        * diskon ratio
+  
+        1. totals
+        2. percentages
+        3. profit ratio
+        4. diskon ratio
+        5. cost
+        6. aov (average order value)
+        7. profit status-if
+        8. profit level-elseif
 * Sheet
 * Dashboard (Filter, Actions Highlight, & Formatting)
 * Story
