@@ -101,9 +101,17 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
   * 8-Pie chart: shipping cost by region
   * 9-Maps: profit by state
   
-* Aggregation / Calculation:
-  * totals
-  * percentages
+* Aggregation / Calculation: When to use calculations,
+  * To segment data
+  * To convert the data type of a field, such as converting a string to a date.
+  * To aggregate data
+  * To filter results
+  * To calculate ratios
+  * Demo:
+        * totals
+        * percentages
+        * profit ratio
+        * diskon ratio
 * Sheet
 * Dashboard (Filter, Actions Highlight, & Formatting)
 * Story
