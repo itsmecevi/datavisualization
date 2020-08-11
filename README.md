@@ -117,6 +117,8 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
         6. aov (average order value)
         7. profit status-if
         8. profit level-elseif
+        
+* Machine Learning: Quick Clusterisation & Forecasting
 * Sheet
 * Dashboard (Filter, Actions Highlight, & Formatting)
 * Story
@@ -124,7 +126,9 @@ Data: [Global-Superstore](https://github.com/itsmecevi/global-superstore-new/blo
 
 ## 8-Use Case
 
-[Medigo-BI](https://itsmecevi.github.io/medigo-bi/)
+* Health: 
+
+    * [Medigo-BI](https://itsmecevi.github.io/medigo-bi/)
 
 ## 9-Executive Summary:
 
