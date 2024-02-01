@@ -4,7 +4,7 @@
  <span>&#128201;</span> About Tableau Software -> [Click Here](https://www.tableau.com/about)
 
 
-<span>&#128202;</span> Free Tableau for Student (1 Years Licence)-> ([Tableau for Student](https://www.tableau.com/university-students)
+<span>&#128202;</span> Free Tableau for Student (1 Years Licence)-> [Tableau for Student](https://www.tableau.com/university-students)
 
 
 ## 1-The Power of Data Visualization
