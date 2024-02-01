@@ -5,9 +5,7 @@
 
 <span>&#128201;</span> Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
 
-<span>&#xf108;</span> [Install Tableau free 14-day trial](https://www.tableau.com/en-gb/products/trial)
-
-<span>&#xf108;</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
+<span>&#xf108;</span> [Tableau for Student Free 1 Years Licence]([https://www.tableau.com/en-gb/products/trial](https://www.tableau.com/university-students))
 
 
 ## 1-The Power of Data Visualization
