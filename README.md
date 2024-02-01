@@ -1,9 +1,8 @@
 
 
 
- About Tableau Software -> [Click Here](https://www.tableau.com/about)
+ <span>&#128201;</span> About Tableau Software -> [Click Here](https://www.tableau.com/about)
 
-<span>&#128201;</span> Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
 
 <span>&#128202;</span> Free Tableau for Student (1 Years Licence)-> ([Tableau for Student](https://www.tableau.com/university-students)
 
